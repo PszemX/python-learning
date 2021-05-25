@@ -1,0 +1,47 @@
+{
+    "1": {
+        "q": "2+2? ",
+        "a":{
+            "4": true,
+            "5": false,
+            "6": false,
+            "7": false
+        }
+    },
+    "2": {
+        "q": "5+5? ",
+        "a":{
+            "20": false,
+            "15": false,
+            "14": false,
+            "10": true
+        }
+    },
+    "3": {
+        "q": "2+2*2? ",
+        "a":{
+            "4": false,
+            "6": true,
+            "8": false,
+            "12": false
+        }
+    }, 
+    "4": {
+        "q": "Stolica Polski? ",
+        "a":{
+            "Gdansk": false,
+            "Poznan": false,
+            "Warszawa": true,
+            "Krakow": false
+        }
+    }, 
+    "5": {
+        "q": "Ludnosc Polski? ",
+        "a":{
+            "1000": false,
+            "20000": false,
+            "300000": false,
+            "Zadne z powyzszych": true
+        }
+    } 
+}
